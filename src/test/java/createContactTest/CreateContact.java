@@ -6,6 +6,7 @@ public class CreateContact {
 		System.out.println("Saddam");
 		System.out.println("Sadan");
 		System.out.println("Sama");
+		System.out.println("Ramanujan");
 	}
 
 }
